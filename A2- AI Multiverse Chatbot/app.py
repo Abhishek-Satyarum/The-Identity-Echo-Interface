@@ -20,7 +20,7 @@ if st.button("SEND"):
                 contents=ai_instructions
             )
             st.success("Message received!")
-            st.write(response.text)
+            st.markdown(response.text)
 
     else :
         st.warning("Please type a message first")
