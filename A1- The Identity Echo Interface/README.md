@@ -13,7 +13,7 @@
 - Streamlit
 
 ## Screenshot of Output
-![Output](Assignments/Images/image.png)
+![Output](image.png)
 
 ## Pre-Submission Checklist
 - [✅] Have you saved your app.py file before testing the server?

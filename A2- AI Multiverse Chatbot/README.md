@@ -10,7 +10,7 @@
 - Secure API key management using `.env`
 
 ## Application Preview
-![Output](Assignments/Images/image2.png)
+![Output](image.png)
 
 ## Pre-Submission Checklist
 - [✅] Have you saved your app.py file before testing the server?
