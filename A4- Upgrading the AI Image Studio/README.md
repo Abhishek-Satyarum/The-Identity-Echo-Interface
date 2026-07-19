@@ -1,6 +1,6 @@
 # AI Image Studio
 
-## ✨ Features
+## Features
 
 - Generate AI images from text prompts
 - Multiple artistic styles
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -32,9 +32,9 @@
 
 ---
 
-## 📸 Application Preview
+## Application Preview
 
-![Screenrecord](A4- Upgrading the AI Image Studio)
+![Screenrecord](A4_Screenrecord.mp4)
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🎯 Assignment Objective
+## Assignment Objective
 
 This project upgrades the basic AI Image Studio by implementing:
 
